@@ -15,3 +15,7 @@ https://projeto-devops-okd5.onrender.com
 
 ## 👨‍💻 Autor
 José Tadeu - [LinkedIn](https://linkedin.com/in/seu-perfil)
+
+## ⚠️ Aviso
+
+**Plano gratuito do Render:** O serviço pode levar ~30-50 segundos para responder se ninguém acessou nos últimos 15 minutos (cold start). Após a primeira requisição, a resposta volta ao normal.
